@@ -1,0 +1,7 @@
+{
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "element-helper.indent-size": 2,
+  "vetur.format.options.tabSize": 2,
+  "prettier.tabWidth": 2
+}
